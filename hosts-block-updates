@@ -11,3 +11,9 @@
 0.0.0.0 iadc.qwape.com
 0.0.0.0 iadsk.apple.com
 0.0.0.0 mesu.apple.com
+0.0.0.0 ocsp.int-x3.letsencrypt.org
+0.0.0.0 world-gen.g.aaplimg.com
+0.0.0.0 gdmf.apple.com
+0.0.0.0 www.gdmf.apple.com
+
+
